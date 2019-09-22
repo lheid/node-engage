@@ -23,7 +23,7 @@
     "repository": "Silverpop/node-engage",
     "bugs": "https://github.com/Silverpop/node-engage/issues",
     "dependencies": {
-        "csv": "^0.4.1",
+        "csv": "^5.0.0",
         "js2xmlparser": "^0.1.9",
         "oauth": "^0.9.12",
         "ssh2": "^0.4.6",
